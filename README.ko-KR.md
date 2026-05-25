@@ -17,8 +17,7 @@ TileLauncher는 9.9 Studio가 배포하고 유지 관리합니다. 이 저장소
 
 ## 공식 링크
 
-- 웹사이트: https://9.9studio.fun/
-- 다운로드 페이지: https://9.9studio.fun/download/
+- 웹사이트: https://9.9studio.fun/tilelauncher/
 - 개인정보 처리방침: https://9.9studio.fun/privacy/
 
 ## 보안 안내

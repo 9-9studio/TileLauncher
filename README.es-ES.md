@@ -17,8 +17,7 @@ TileLauncher es publicado y mantenido por 9.9 Studio. Este repositorio pertenece
 
 ## Enlaces oficiales
 
-- Sitio web: https://9.9studio.fun/
-- Página de descarga: https://9.9studio.fun/download/
+- Sitio web: https://9.9studio.fun/tilelauncher/
 - Política de privacidad: https://9.9studio.fun/privacy/
 
 ## Seguridad

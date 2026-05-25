@@ -17,8 +17,7 @@ TileLauncher публикуется и поддерживается 9.9 Studio. 
 
 ## Официальные ссылки
 
-- Сайт: https://9.9studio.fun/
-- Страница загрузки: https://9.9studio.fun/download/
+- Сайт: https://9.9studio.fun/tilelauncher/
 - Политика конфиденциальности: https://9.9studio.fun/privacy/
 
 ## Безопасность

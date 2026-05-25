@@ -17,8 +17,7 @@ TileLauncher, 9.9 Studio tarafından yayımlanır ve bakım altında tutulur. Bu
 
 ## Resmi Bağlantılar
 
-- Web sitesi: https://9.9studio.fun/
-- İndirme sayfası: https://9.9studio.fun/download/
+- Web sitesi: https://9.9studio.fun/tilelauncher/
 - Gizlilik politikası: https://9.9studio.fun/privacy/
 
 ## Güvenlik
